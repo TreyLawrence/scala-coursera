@@ -1,0 +1,12 @@
+console
+val l = List(1,2,3,4,5)
+var l = List(1,2,3,4,5)
+l = List(1,2,3,4,5)\
+l
+console
+import example
+import example._
+console
+sbt submit lawrence.trey@gmail.com 8TzGcxKfvZ
+submit lawrence.trey@gmail.com 8TzGcxKfvZ
+console
